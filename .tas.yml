@@ -13,5 +13,5 @@ postMerge:
 postRun:
      command:
         - npm --version
-# configFile: .mocharc.yml
+configFile: test/mocha.opts
 version: 1.0.0
